@@ -1,0 +1,91 @@
+{
+  "guertel": {
+    "tol": 30,
+    "sonde": 4,
+    "nachlauf": 3,
+    "inseln": [
+      [
+        175,
+        454
+      ],
+      [
+        474,
+        455
+      ],
+      [
+        768,
+        454
+      ],
+      [
+        1067,
+        456
+      ],
+      [
+        1366,
+        440
+      ]
+    ]
+  },
+  "bereit": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": [
+      [
+        354,
+        617
+      ]
+    ]
+  },
+  "jubel": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": [
+      [
+        608,
+        486
+      ],
+      [
+        577,
+        429
+      ]
+    ]
+  },
+  "denken": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": []
+  },
+  "nochmal": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": []
+  },
+  "schreiben": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": [
+      [
+        333,
+        688
+      ],
+      [
+        319,
+        780
+      ]
+    ]
+  },
+  "gruss": {
+    "sonde": 1,
+    "nachlauf": 6,
+    "inseln": [
+      [
+        335,
+        647
+      ],
+      [
+        333,
+        1104
+      ]
+    ]
+  }
+}

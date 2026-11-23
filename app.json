@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Word Dojo",
+    "slug": "vokabeltrainer",
+    "scheme": "vokabeltrainer",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "de.lernapp.vokabeltrainer"
+    },
+    "web": {
+      "output": "static",
+      "bundler": "metro",
+      "lang": "de",
+      "name": "Word Dojo",
+      "shortName": "Word Dojo",
+      "backgroundColor": "#EDE1CB",
+      "themeColor": "#EDE1CB",
+      "favicon": "./assets/art/dojo/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-font"
+    ],
+    "backgroundColor": "#EDE1CB",
+    "icon": "./assets/art/dojo/icon.png"
+  }
+}

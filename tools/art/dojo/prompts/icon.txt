@@ -1,0 +1,7 @@
+App-Symbol für eine Vokabel-Lern-App. Quadratisch 1:1 (1024x1024).
+
+Stil: Japanische Tuschemalerei (Sumi-e) trifft Manga: lebendige, trockene Pinselstriche mit sichtbarer Borstenstruktur, Tuschespritzer, große leere Flächen, dazu flache Holzschnitt-Farbflächen. Palette: Tuscheschwarz #1A1A1A, Washi-Papier #EFE6D2, Zinnoberrot #D9381E, gedämpftes Moosgrün #6B8F71. Kein Blau, keine Verläufe, kein 3D. Kein Text, keine Schriftzeichen, kein Stempel mit Zeichen.
+
+Motiv: eine große, flache zinnoberrote Sonnenscheibe (#D9381E) mit leicht trockenem Pinselrand in der Bildmitte, sie füllt etwa 60 % der Bildbreite. Davor ein einzelner kräftiger, schwungvoller schwarzer Tuschepinsel-Schwung (ein breiter, dynamischer Bogenstrich mit trockenem, ausgefranstem Ende und sichtbarer Borstenstruktur), der diagonal über die Sonnenscheibe läuft; wenige kleine Tuschespritzer. Abstrakter Strich – ausdrücklich KEIN Schriftzeichen, kein Buchstabe, kein Enso-Kreis mit Zeichen. Sehr einfach, plakativ, auch in kleiner Größe klar erkennbar. Motiv mittig mit Abstand zu allen Rändern.
+
+Hintergrund: einfarbige, gleichmäßige Fläche in Washi-Papier #EFE6D2 bis an alle vier Bildränder, keine abgerundeten Ecken, kein Rahmen, keine App-Kachel-Form, kein Schlagschatten. Kein Text, keine Buchstaben, keine Zahlen, keine Schriftzeichen (auch keine japanischen), keine Soundwörter, keine Sprechblasen, kein Logo, keine Signatur, kein Stempel.
